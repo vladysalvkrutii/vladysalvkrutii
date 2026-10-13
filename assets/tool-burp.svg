@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="127" height="28" viewBox="0 0 127 28" role="img" aria-label="Burp Suite">
+<rect x="0.75" y="0.75" width="125.5" height="26.5" rx="13.25" fill="#0f1714" stroke="#ff8a4c" stroke-opacity="0.55" stroke-width="1.5"/>
+<g transform="translate(14 6.0)"><circle cx="8" cy="8" r="4.5" fill="#ff8a4c"/></g>
+<text x="39" y="18.32" font-family="'JetBrains Mono','Cascadia Code','SF Mono',Menlo,Consolas,monospace" font-size="12" font-weight="600" fill="#e6edf3" textLength="72.0" lengthAdjust="spacingAndGlyphs">Burp Suite</text>
+</svg>

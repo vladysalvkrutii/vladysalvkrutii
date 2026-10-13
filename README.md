@@ -1,36 +1,71 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:00ff9c&height=180&section=header&text=Vladyslav%20Krutii&fontSize=48&fontColor=e6edf3&fontAlignY=38&desc=cybersecurity%20%C2%B7%20CTF%20%C2%B7%20DevOps&descSize=18&descAlignY=60&descColor=00ff9c" width="100%"/>
+
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Vladyslav Krutii — cybersecurity student, CTF player, DevSecOps"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=00FF9C&center=true&vCenter=true&width=620&lines=%24+whoami;Cybersecurity+student+%40+KSE+%F0%9F%87%BA%F0%9F%87%A6;CTF+player+%E2%80%94+team+KSE_CS1;Reversing+binaries+%26+breaking+web+apps;Shipping+with+Docker%2C+K8s+%26+CI%2FCD" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vladyslav-krutii-598b64356/"><img src="assets/linkedin.svg" height="40" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/vladyslav-krutii-598b64356/"><img src="assets/badge-linkedin.svg" height="34" alt="LinkedIn"/></a>
+  <img src="assets/badge-kse.svg" height="34" alt="Kyiv School of Economics"/>
+  <img src="assets/badge-ctf.svg" height="34" alt="CTF team KSE_CS1"/>
+</p>
+
+---
+
+### `> cat about.txt`
+
+```yaml
+name:      Vladyslav Krutii
+location:  Ukraine 🇺🇦
+study:     BSc Cybersecurity @ Kyiv School of Economics
+ctf_team:  KSE_CS1
+highlight: Haruul Zangi 2026 Grand Final (Attack & Defense) — Ulaanbaatar, Mongolia 🇲🇳
+interests: [reverse engineering, web security, DevSecOps, security tooling]
+now:       building portfolio projects where security and infrastructure meet
+```
+
+### `> ls ~/projects --featured`
+
+<p align="center">
+  <a href="https://github.com/vladysalvkrutii/secscan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vladysalvkrutii&repo=secscan&theme=github_dark&border_color=1d4636&border_radius=14&title_color=00ff9c&icon_color=00ff9c&bg_color=0d1117" alt="secscan"/>
+  </a>
+  <a href="https://github.com/vladysalvkrutii/kse-air-alerts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vladysalvkrutii&repo=kse-air-alerts&theme=github_dark&border_color=1d4636&border_radius=14&title_color=00ff9c&icon_color=00ff9c&bg_color=0d1117" alt="kse-air-alerts"/>
+  </a>
+</p>
+
+| Project | What it is | Stack |
+|---|---|---|
+| 🛡️ [**secscan**](https://github.com/vladysalvkrutii/secscan) | Security-headers scanner API wrapped in a full DevOps pipeline: hardened multi-stage image, CI with lint → tests → Trivy scan → GHCR, K8s manifests, Prometheus + Grafana monitoring | FastAPI · Docker · Kubernetes · GitHub Actions · Trivy |
+| 🚨 [**kse-air-alerts**](https://github.com/vladysalvkrutii/kse-air-alerts) | Hourly per-oblast forecast of new air-raid alerts in Ukraine, evaluated walk-forward so no forecast ever sees the future | Python · pandas · scikit-learn |
+
+### `> stack --list`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,cs,ts,js,bash,powershell&theme=dark" alt="languages"/><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,nextjs,react,dotnet,tailwind&theme=dark" alt="frameworks"/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,prometheus,grafana,linux,kali,vercel,git&theme=dark" alt="infra & tools"/>
 </p>
 
 <p align="center">
-  <img src="assets/about.svg" width="100%" alt="About: BSc Cybersecurity @ Kyiv School of Economics, CTF team KSE_CS1, Haruul Zangi 2026 Grand Final (Attack & Defense)"/>
+  <img src="assets/tool-ida.svg" height="28" alt="IDA Pro"/>
+  <img src="assets/tool-burp.svg" height="28" alt="Burp Suite"/>
+  <img src="assets/tool-wireshark.svg" height="28" alt="Wireshark"/>
+  <img src="assets/tool-pwntools.svg" height="28" alt="pwntools"/>
+  <img src="assets/tool-trivy.svg" height="28" alt="Trivy"/>
 </p>
 
-<h3 align="center"><code>~/projects</code></h3>
+### `> git log --stats`
 
 <p align="center">
-  <a href="https://github.com/vladysalvkrutii/secscan"><img src="assets/project-secscan.svg" width="49%" alt="secscan"/></a>
-  <a href="https://github.com/vladysalvkrutii/kse-air-alerts"><img src="assets/project-air-alerts.svg" width="49%" alt="kse-air-alerts"/></a>
-</p>
-
-<h3 align="center"><code>~/stack</code></h3>
-
-<p align="center">
-  <img src="assets/stack.svg" width="100%" alt="Python, C, C#, TypeScript, JavaScript, Bash, PowerShell · FastAPI, Django, Next.js, React, .NET, Tailwind · Docker, Kubernetes, GitHub Actions, Prometheus, Grafana, Linux, Kali, Vercel, Git · IDA Pro, Burp Suite, Wireshark, pwntools, Trivy"/>
-</p>
-
-<h3 align="center"><code>~/stats</code></h3>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vladysalvkrutii&show_icons=true&hide_rank=true&bg_color=11161f&title_color=7ee8c7&icon_color=b4a0ff&text_color=c3cbd8&border_color=252e40&border_radius=18" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladysalvkrutii&layout=compact&langs_count=6&bg_color=11161f&title_color=7ee8c7&text_color=c3cbd8&border_color=252e40&border_radius=18" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vladysalvkrutii&show_icons=true&hide_rank=true&theme=github_dark&border_color=1d4636&border_radius=14&title_color=00ff9c&icon_color=00ff9c&bg_color=0d1117" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladysalvkrutii&layout=compact&langs_count=6&theme=github_dark&border_color=1d4636&border_radius=14&title_color=00ff9c&bg_color=0d1117" alt="Top languages"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vladysalvkrutii&background=11161F&border=252E40&stroke=252E40&ring=B4A0FF&fire=7EE8C7&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=7EE8C7&sideLabels=7D8AA3&dates=7D8AA3&border_radius=18" alt="Streak"/>
+  <img src="https://streak-stats.demolab.com?user=vladysalvkrutii&theme=github-dark-blue&border=1D4636&border_radius=14&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" alt="Streak"/>
 </p>
 
 <p align="center">
@@ -40,6 +75,4 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="assets/footer.svg" width="100%" alt="thanks for stopping by"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:0a3d2e,100:0d1117&height=100&section=footer" width="100%"/>

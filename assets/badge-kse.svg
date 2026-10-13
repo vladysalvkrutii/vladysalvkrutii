@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="242" height="34" viewBox="0 0 242 34" role="img" aria-label="Kyiv School of Economics">
+<rect x="0.75" y="0.75" width="240.7" height="32.5" rx="16.25" fill="#0f1714" stroke="#00ff9c" stroke-opacity="0.55" stroke-width="1.5"/>
+<g transform="translate(14 9.0)"><path d="M8 2 L16 6 L8 10 L0 6 Z" fill="#00ff9c"/><path d="M3.5 8 V12 C3.5 13.5 12.5 13.5 12.5 12 V8" fill="none" stroke="#00ff9c" stroke-width="1.6"/></g>
+<text x="39" y="21.68" font-family="'JetBrains Mono','Cascadia Code','SF Mono',Menlo,Consolas,monospace" font-size="13" font-weight="600" fill="#e6edf3" textLength="187.2" lengthAdjust="spacingAndGlyphs">Kyiv School of Economics</text>
+</svg>
