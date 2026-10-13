@@ -61,7 +61,7 @@ now:       building portfolio projects where security and infrastructure meet
 ### `> git log --stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vladysalvkrutii&show_icons=true&hide_rank=true&include_all_commits=true&theme=github_dark&hide_border=true&title_color=00ff9c&icon_color=00ff9c&bg_color=0d1117" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vladysalvkrutii&show_icons=true&hide_rank=true&theme=github_dark&hide_border=true&title_color=00ff9c&icon_color=00ff9c&bg_color=0d1117" alt="GitHub stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladysalvkrutii&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=00ff9c&bg_color=0d1117" alt="Top languages"/>
 </p>
 <p align="center">
