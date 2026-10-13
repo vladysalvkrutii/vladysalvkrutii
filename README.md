@@ -21,9 +21,9 @@ name:      Vladyslav Krutii
 location:  Ukraine 🇺🇦
 study:     BSc Cybersecurity @ Kyiv School of Economics
 ctf_team:  KSE_CS1
-highlight: Haruul Zangi 2026 Grand Final (Attack & Defense) — Ulaanbaatar, Mongolia 🇲🇳
-interests: [reverse engineering, web security, DevSecOps, security tooling]
-now:       building portfolio projects where security and infrastructure meet
+highlight: Haruul Zangi 2026 Grand Final · Attack & Defense · Mongolia 🇲🇳
+interests: [reverse engineering, web security, DevSecOps, tooling]
+now:       building projects where security meets infrastructure
 ```
 
 ### `> ls ~/projects --featured`
